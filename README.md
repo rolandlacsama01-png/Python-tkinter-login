@@ -11,7 +11,7 @@ developed using Python and Tkinter.
 - Customized GUI design
 
 ## Developer Information
-Full Name: Juan Dela Cruz
+Full Name: Roland B Lacsama Jr
 Course and Year: BS Infotech (Software Engineering)
 Subject: ct5
 
